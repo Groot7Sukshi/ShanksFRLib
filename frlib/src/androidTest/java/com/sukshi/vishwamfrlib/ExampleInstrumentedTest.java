@@ -1,4 +1,4 @@
-package com.sukshi.frlib;
+package com.sukshi.vishwamfrlib;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

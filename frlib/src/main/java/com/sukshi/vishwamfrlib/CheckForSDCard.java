@@ -1,4 +1,4 @@
-package com.sukshi.frlib;
+package com.sukshi.vishwamfrlib;
 
 import android.os.Environment;
 

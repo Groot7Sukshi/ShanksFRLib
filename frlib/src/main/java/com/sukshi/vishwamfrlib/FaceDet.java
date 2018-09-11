@@ -1,4 +1,4 @@
-package com.sukshi.frlib;
+package com.sukshi.vishwamfrlib;
 
 import android.graphics.Bitmap;
 import android.support.annotation.Keep;

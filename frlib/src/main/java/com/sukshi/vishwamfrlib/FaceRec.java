@@ -1,35 +1,21 @@
-package com.sukshi.frlib;
+package com.sukshi.vishwamfrlib;
 
 import android.app.Activity;
-import android.app.ProgressDialog;
 import android.content.Context;
 import android.graphics.Bitmap;
-import android.graphics.Canvas;
-import android.graphics.Color;
-import android.graphics.Paint;
 import android.graphics.Point;
-import android.graphics.RectF;
 import android.media.AudioManager;
 import android.media.MediaPlayer;
 import android.os.AsyncTask;
-import android.os.Build;
 import android.support.annotation.Keep;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 import android.support.annotation.WorkerThread;
-import android.support.design.widget.Snackbar;
-import android.util.AttributeSet;
 import android.util.DisplayMetrics;
 import android.util.Log;
-import android.view.Gravity;
-import android.view.View;
 import android.view.WindowManager;
-import android.widget.TextView;
 
-import com.sukshi.frlib.popup.FileUtils;
-
-import org.json.JSONArray;
-import org.json.JSONException;
+import com.sukshi.vishwamfrlib.popup.FileUtils;
 
 import java.io.File;
 import java.util.ArrayList;

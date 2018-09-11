@@ -1,9 +1,8 @@
-package com.sukshi.frlib.popup;
+package com.sukshi.vishwamfrlib.popup;
 
 
 import android.app.Dialog;
 import android.content.Context;
-import android.gesture.Gesture;
 import android.graphics.Bitmap;
 import android.graphics.drawable.Drawable;
 import android.media.AudioManager;
@@ -11,7 +10,6 @@ import android.media.MediaPlayer;
 import android.os.Build;
 import android.os.Bundle;
 import android.os.CountDownTimer;
-import android.util.Log;
 import android.view.View;
 import android.view.animation.AlphaAnimation;
 import android.view.animation.Animation;
@@ -21,7 +19,7 @@ import android.widget.FrameLayout;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.sukshi.frlib.R;
+import com.sukshi.vishwamfrlib.R;
 
 import java.util.List;
 import java.util.Random;

@@ -14,7 +14,7 @@
 * limitations under the License.
 */
 
-package com.sukshi.frlib;
+package com.sukshi.vishwamfrlib;
 
 /**
  * Created by reenath on 18/06/02.

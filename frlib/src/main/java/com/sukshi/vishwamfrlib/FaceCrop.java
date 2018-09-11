@@ -1,18 +1,11 @@
-package com.sukshi.frlib;
+package com.sukshi.vishwamfrlib;
 
 import android.app.Activity;
 import android.content.Context;
 import android.graphics.Bitmap;
-import android.graphics.Canvas;
 import android.media.AudioManager;
 import android.media.MediaPlayer;
 import android.util.DisplayMetrics;
-import android.util.Log;
-import android.util.SparseArray;
-
-import com.google.android.gms.vision.Frame;
-import com.google.android.gms.vision.face.Face;
-import com.google.android.gms.vision.face.FaceDetector;
 
 import org.json.JSONArray;
 import org.json.JSONException;

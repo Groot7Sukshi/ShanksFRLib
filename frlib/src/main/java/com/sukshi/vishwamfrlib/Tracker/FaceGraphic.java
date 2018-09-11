@@ -1,4 +1,4 @@
-package com.sukshi.frlib.Tracker;
+package com.sukshi.vishwamfrlib.Tracker;
 
 
 import android.content.Context;
@@ -12,7 +12,7 @@ import android.graphics.PorterDuff;
 import android.util.Log;
 
 import com.google.android.gms.vision.face.Face;
-import com.sukshi.frlib.R;
+import com.sukshi.vishwamfrlib.R;
 
 /**
  * Graphic instance for rendering face position, orientation, and landmarks within an associated

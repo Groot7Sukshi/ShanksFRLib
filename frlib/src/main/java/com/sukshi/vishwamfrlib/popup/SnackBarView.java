@@ -1,21 +1,15 @@
-package com.sukshi.frlib.popup;
+package com.sukshi.vishwamfrlib.popup;
 
-import android.app.Activity;
 import android.content.Context;
-import android.graphics.Bitmap;
 import android.os.Build;
 import android.os.CountDownTimer;
 import android.support.annotation.Nullable;
 import android.support.design.widget.Snackbar;
-import android.text.Layout;
 import android.util.AttributeSet;
 import android.view.Gravity;
 import android.view.View;
-import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
-
-import com.sukshi.frlib.R;
 
 public class SnackBarView extends View {
 

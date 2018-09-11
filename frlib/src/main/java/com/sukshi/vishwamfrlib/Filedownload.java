@@ -1,12 +1,10 @@
-package com.sukshi.frlib;
+package com.sukshi.vishwamfrlib;
 
 import android.app.ProgressDialog;
 import android.content.Context;
 import android.os.AsyncTask;
 import android.os.Environment;
 import android.os.Handler;
-import android.os.Looper;
-import android.os.Message;
 import android.util.Log;
 import android.view.WindowManager;
 import android.widget.Toast;

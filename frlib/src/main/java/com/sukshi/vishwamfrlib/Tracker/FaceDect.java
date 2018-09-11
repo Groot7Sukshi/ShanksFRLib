@@ -1,4 +1,4 @@
-package com.sukshi.frlib.Tracker;
+package com.sukshi.vishwamfrlib.Tracker;
 
 import android.content.Context;
 import android.media.AudioManager;
@@ -10,9 +10,9 @@ import com.google.android.gms.vision.MultiProcessor;
 import com.google.android.gms.vision.Tracker;
 import com.google.android.gms.vision.face.Face;
 import com.google.android.gms.vision.face.FaceDetector;
-import com.sukshi.frlib.R;
+import com.sukshi.vishwamfrlib.R;
 
-import static com.sukshi.frlib.Tracker.CamSource.faceSize;
+import static com.sukshi.vishwamfrlib.Tracker.CamSource.faceSize;
 
 public class FaceDect {
 

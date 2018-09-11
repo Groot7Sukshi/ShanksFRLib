@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.sukshi.frlib.popup;
+package com.sukshi.vishwamfrlib.popup;
 
 import android.content.Context;
 import android.support.annotation.NonNull;

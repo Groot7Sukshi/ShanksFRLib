@@ -1,10 +1,9 @@
-package com.sukshi.frlib.popup;
+package com.sukshi.vishwamfrlib.popup;
 
 import android.app.Activity;
 import android.content.Context;
 import android.graphics.Bitmap;
 import android.graphics.Canvas;
-import android.graphics.Color;
 import android.graphics.Paint;
 import android.graphics.PorterDuff;
 import android.graphics.PorterDuffXfermode;
@@ -13,7 +12,7 @@ import android.util.AttributeSet;
 import android.util.DisplayMetrics;
 import android.view.View;
 
-import com.sukshi.frlib.R;
+import com.sukshi.vishwamfrlib.R;
 
 /**
  * Created by reenath on 09/07/18.
