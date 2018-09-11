@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/loading"
+    android:layout_width="290dp"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:layout_gravity="center"
+    android:orientation="vertical"
+    android:background="@drawable/dialog_background"
+    android:padding="10dp">
+
+    
+
+    <FrameLayout
+        android:id="@+id/error_frame"
+        android:layout_width="53dp"
+        android:layout_height="53dp"
+        android:layout_marginTop="5dp"
+        >
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            />
+
+        <ImageView
+            android:id="@+id/error_x"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/eyes_close"
+            android:contentDescription="@string/app_name"
+          />
+
+    </FrameLayout>
+    <TextView
+        android:id="@+id/title_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:maxLines="10"
+        android:textColor="#575757"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:text="Keep your eyes closed \nWe will auto capture your face"/>
+
+
+</LinearLayout>
